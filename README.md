@@ -13,6 +13,7 @@ integrations — APIs, payments, real-time systems and AI features.
 - Multi-tenant SaaS: auth, RBAC, billing and plan limits
 - Retrieval-augmented generation (RAG) and LLM features on your own data
 - Real-time systems: WebSockets, monitoring and alerting
+- Web scraping & data pipelines: price/availability monitoring, exports to Sheets/API
 
 ### Selected projects
 
@@ -23,6 +24,7 @@ integrations — APIs, payments, real-time systems and AI features.
 | [rag-agent](https://github.com/rovidev95/rovidev-rag-agent) | RAG service with grounded answers and source citations |
 | [membership-bot](https://github.com/rovidev95/rovidev-membership-bot) | Paid community access driven by Stripe subscriptions |
 | [realtime-monitor](https://github.com/rovidev95/rovidev-realtime-monitor) | Live service monitoring with a WebSocket dashboard |
+| [business-scraper](https://github.com/rovidev95/rovidev-business-scraper) | Polite price/availability monitor with change detection |
 
 ---
 
